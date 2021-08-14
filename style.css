@@ -1,0 +1,9 @@
+header {
+    display: flex;
+    background: #d6a2f7;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background: #d9b9ec;
+}
